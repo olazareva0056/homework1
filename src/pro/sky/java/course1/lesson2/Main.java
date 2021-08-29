@@ -2,9 +2,8 @@ package pro.sky.java.course1.lesson2;
 
 public class Main {
     public static void main(String[] args) {
-       /* //Задание 1
+       //Задание 1 и 2
         int clientOS = 0;
-        //Задание 2
         int clientDeviceYear = 2015;
         if (clientDeviceYear > 2019) {
             if (clientOS == 1) {
@@ -40,7 +39,7 @@ public class Main {
         if (deliveryDistance >= 60) {
             System.out.println("Доставка карты составит трое суток");
         }
-*/
+
         //Задание 5
         int monthNumber = 12;
         switch (monthNumber) {
